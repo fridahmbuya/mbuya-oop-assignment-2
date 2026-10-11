@@ -1,0 +1,7 @@
+requests>=2.28
+pandas>=2.0
+matplotlib>=3.7
+pytest>=7.0
+hypothesis>=6.80
+jupyter>=1.0
+nbconvert>=7.0
