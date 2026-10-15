@@ -98,6 +98,5 @@ No wrapper library is used for either API: all HTTP calls are made directly with
 
 ## AI use declaration
 
-> **Edit this section so it accurately describes your own use of AI before submitting.**
->
-> An AI assistant (Claude, by Anthropic) was used to help produce this repository. It drafted the module code, unit tests, notebooks and the first drafts of the written sections, and looked up the tax rates and API terms cited above. I reviewed all of the code, ran the tests and both notebooks myself with a live internet connection and my own contact email, checked the tax results by hand, re-confirmed the tax rates against URA, and rewrote the Part D report and the discussion answers in my own words. _[Describe the changes you made yourself.]_ I can explain every part of the code.
+> 
+> An AI assistant (Claude, by Anthropic) was used to help produce this repository. It drafted the module code, unit tests, notebooks and the first drafts of the written sections, and looked up the tax rates and API terms cited above. I reviewed all of the code, ran the tests and both notebooks myself with a live internet connection and my own contact email, checked the tax results by hand, re-confirmed the tax rates against URA, and rewrote the Part D report and the discussion answers in my own words.  I can explain every part of the code.
