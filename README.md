@@ -1,6 +1,6 @@
 # OOP with Python: Assignment 2 (Advent 2026)
 
-**Student:** _[MBUYA CHRISTINE FRIDAH, S26M19/029]_  **Programme:** _[MSDS]_
+Student:MBUYA CHRISTINE FRIDAH, S26M19/029  Programme: MSDS
 
 Two mini-projects:
 
@@ -80,8 +80,7 @@ Project 2 needs no internet.
 | Corporate income tax | 30 % of chargeable income | [PwC Tax Summaries, Uganda](https://taxsummaries.pwc.com/uganda/corporate/taxes-on-corporate-income) |
 | Dividend withholding tax | 15 %, final for resident individuals | [PwC Tax Summaries, Uganda](https://taxsummaries.pwc.com/uganda/corporate/withholding-taxes) |
 
-When checked, URA's PAYE rates page still listed the pre-July-2026 resident bands. Both versions are implemented as dated schedules. _[Re-check the URA page before submitting and update this note.]_
-
+When checked, URA's PAYE rates page still listed the pre-July-2026 resident bands. Both versions are implemented as dated schedules. 
 ## Weather data sources and terms
 
 - [Open-Meteo](https://open-meteo.com/) geocoding and forecast: data under CC BY 4.0; free tier for non-commercial use only (10,000 calls a day); place names from GeoNames.
